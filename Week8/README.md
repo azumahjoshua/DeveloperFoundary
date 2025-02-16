@@ -1,4 +1,7 @@
 # Deploy A Core Bank App on AWS Using Terraform
+In this project, we are migrating our core banking application from our data center to AWS. We will deploy our resources using Terraform.
+
+This project is continuously updated, with new features added every week.
 
 ## Setting Up Terraform
 
