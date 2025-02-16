@@ -1,3 +1,4 @@
+# Deploy A Core Bank App on AWS Using Terraform
 Step 1: Setting Up the VPC and Networking
 Create a VPC.
 Set up public and private subnets across two availability zones.
