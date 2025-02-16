@@ -6,3 +6,5 @@ volume
 .envrc
 **/.terraform.lock.hcl
 atlantis_linux_amd64.zip
+values.yaml
+token
