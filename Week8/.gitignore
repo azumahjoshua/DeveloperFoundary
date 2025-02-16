@@ -1,0 +1,8 @@
+.venv
+volume
+.vscode
+**/.terraform
+**/terraform.tfstate*
+.envrc
+**/.terraform.lock.hcl
+atlantis_linux_amd64.zip
