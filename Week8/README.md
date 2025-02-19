@@ -3,7 +3,7 @@ In this project, we are migrating our core banking application from our data cen
 
 This project is continuously updated, with new features added every week.
 
-
+![Architural Diagram](./images/corebankapponaws.png)
 
 ## Setting Up Terraform
 
@@ -253,7 +253,19 @@ git push -u origin dev
 ### 3. Create a Pull Request
 
 1. Go to your GitHub repository.  
-2. Click on **Pull Requests** > **New Pull Request**.  
-   ![Pull Request](./images/a9.png)  
-3. Select **dev** as the source branch and **main** (or your default branch) as the target branch.  
+2. Click on **Pull Requests** > **New Pull Request**.
+
+![Pull Request](./images/a9.png)
+
+3. Select **dev** as the compaire branch and **main** as the base branch.
 4. Click **Create Pull Request**.
+
+![Select a branch and Create a pull request](./images/a10.png)
+
+5. **atlantis plan and apply**
+
+![atlantis plan and atlantis apply successfull](./images/a13.png)
+
+6. **Also check from out ngrok to see it working**
+
+![ngrok](./images/a16.png)
