@@ -249,3 +249,11 @@ git add .
 git commit -m "Commit message"
 git push -u origin dev
 ```
+
+### 3. Create a Pull Request
+
+1. Go to your GitHub repository.  
+2. Click on **Pull Requests** > **New Pull Request**.  
+   ![Pull Request](./images/a9.png)  
+3. Select **dev** as the source branch and **main** (or your default branch) as the target branch.  
+4. Click **Create Pull Request**.
